@@ -119,6 +119,7 @@ class DetailActivity : ComponentActivity() {
                     val intent = Intent(context, BasketActivity::class.java)
                     context.startActivity(intent)
                 },
+                    //pbvhjkbkkgb
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(16.dp)
